@@ -12,4 +12,6 @@ Average score analysis (8.31/10)
 Interactive filters and detailed movie listings
 
 # OVERVIEW
-(./Images/IMDb Dashboard.png)
+<p align="center">
+  <img src="Images/IMDb Dashboard.png" alt="Example Image" width="600"/>
+</p>
