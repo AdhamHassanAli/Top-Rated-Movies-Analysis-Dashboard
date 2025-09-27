@@ -12,4 +12,4 @@ Average score analysis (8.31/10)
 Interactive filters and detailed movie listings
 
 # OVERVIEW
-(./images/IMDb Dashboard.png)
+(./Images/IMDb Dashboard.png)
